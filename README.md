@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="" target="_blank">Taras</a> 
+<h1 align="center">Hi there, I'm <a href= target="_blank">Taras</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A student from Russia aspiring to become an IT specialist 🇷🇺</h3>
 - 🌱 I’m currently learning python, java, web
